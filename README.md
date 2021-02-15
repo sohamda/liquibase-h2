@@ -17,11 +17,3 @@ There are several config options from spring boot. Check this [class](https://gi
 ## Detail - How to
 
 Follow the step-by-step guide in this blog : https://adfjava.blogspot.com/2021/02/spring-boot-liquibase-h2.html
-
-### Inpired by
-
-A few blogs to mention
-1. https://javadeveloperzone.com/spring-boot/spring-boot-liquibase-example/
-2. https://www.baeldung.com/liquibase-refactor-schema-of-java-app
-3. https://www.liquibase.org/get-started
-4. https://docs.spring.io/spring-boot/docs/current/reference/html/howto.html#howto-database-initialization
