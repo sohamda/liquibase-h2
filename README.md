@@ -1,7 +1,7 @@
-# Spring Boot + Liquibase + H2
+# Spring Boot + Liquibase + MySQL
 
 A simple spring boot application which illustrates how to use Liquibase for your database changes. 
-This application uses H2 as in-memory database to showcase, but you can also use an external database instead.
+This application connects to a MySQL schema to showcase liquibase.
 
 Springboot manages the execution of the liquibase updates at startup automatically. Although you can control that via spring config prop in application.properties.
 
