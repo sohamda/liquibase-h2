@@ -81,4 +81,12 @@
             <column name="service_id" valueNumeric="8"/>
         </insert>
     </changeSet>
+
+    <changeSet author="soham" id="5">
+        <insert tableName="citizen_service">
+            <column name="id" valueNumeric="15"/>
+            <column name="citizen_id" valueNumeric="4"/>
+            <column name="service_id" valueNumeric="9"/>
+        </insert>
+    </changeSet>
 </databaseChangeLog>
