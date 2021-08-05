@@ -12,7 +12,7 @@ There are several config options from spring boot. Check this [class](https://gi
 ## To run this :
 `` mvn clean install ``
 
-`` mvn sprint-boot:run``
+`` mvn spring-boot:run``
 
 ## Detail - How to
 
